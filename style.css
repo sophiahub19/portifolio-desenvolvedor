@@ -102,6 +102,7 @@ main{
 }
 
 .conteudo{
+    padding-left: 20px;
     padding-top: 100px;
     max-width: 1300px;
 }
